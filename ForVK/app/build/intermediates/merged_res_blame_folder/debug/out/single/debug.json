@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_photo_camera_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\photo_camera_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_no_photography_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\no_photography_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_letter_v.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\letter_v.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_chat_bubble_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\chat_bubble_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_waving_hand_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\waving_hand_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_change_circle_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\change_circle_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_call_end_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\call_end_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_mic_off_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\mic_off_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_k.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_mic_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\mic_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-debug-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\drawable_group_48px.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\drawable\\group_48px.xml"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-merged_res-26:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\xml\\backup_rules.xml"
+    }
+]

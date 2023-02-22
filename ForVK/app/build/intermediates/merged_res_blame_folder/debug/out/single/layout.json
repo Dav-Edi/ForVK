@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-mergeDebugResources-25:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\edild\\.gradle\\daemon\\7.4\\com.example.forvk.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.forvk.app-mergeDebugResources-25:/layout/activity_main2.xml",
+        "source": "com.example.forvk.app-main-28:/layout/activity_main2.xml"
+    }
+]
